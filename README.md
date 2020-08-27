@@ -15,7 +15,7 @@ Level 1 you Collect Alphapet accorin to word display and soub=nd say it to
 remeber it's pronounce
 
 
-<img src="Images/level 1-Clear.PNG.PNG" style="width:700px;height:300px;">
+<img src="Images/level 1-Clear.PNG" style="width:700px;height:300px;">
 
 
 Level 2 you Collect Alphapet of Complete Word that it's Pricture and Complete Word Diplay 
